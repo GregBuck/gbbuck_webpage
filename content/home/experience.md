@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Anchorage, AK"
   date_start = "March 2008"
   date_end = "Present"
-  description = """Area Reaearch Biologist"""
+  description = "Area Reaearch Biologist"
   Responsibilities include:
   
   * Run Forecasting
@@ -39,7 +39,7 @@ date_format = "Jan 2006"
   location = "Anchorage, AK"
   date_start = "March 2004"
   date_end = "March 2008"
-  description = """Ran several projects for the Bristol Bay Science Institute."""
+  description = "Ran several projects for the Bristol Bay Science Institute."
   """
 
 [[experience]]
@@ -49,5 +49,6 @@ date_format = "Jan 2006"
   location = ""
   date_start = "December 1989"
   date_end = "August 1997"
-  description = """Served with 3rd Bn 7th Marines and at Marine Corps Recruit Depot San Diego."""
+  description = "Served with 3rd Bn 7th Marines and at Marine Corps Recruit Depot San Diego."
+  """
 +++
