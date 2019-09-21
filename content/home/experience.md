@@ -2,7 +2,7 @@
 # Experience widget.
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Experience"
@@ -25,11 +25,6 @@ date_format = "Jan 2006"
   date_start = "Mar 2008"
   date_end = ""
   description = "Area Reaearch Biologist"
-  Responsibilities include:
-  
-  * Run Forecasting
-  * Escapement Goal Analysis
-  * Data analysis and reporting
   """
 
 [[experience]]
