@@ -55,7 +55,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "gregory.buck@alaska.gov"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
@@ -64,6 +64,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Greg Buck currently serves as the lead research biologist for the commercial fisheries division who oversees all research functions for the Bristol Bay managment area. Primary functions include forecasting the annual sockeye runs to the Ugashik, Egegik, Naknek-Kvichak, Nushagak and Togiak commercial fishing districts as well as assisting and providing assistance with escapement goal analysis. Greg Supervises two permanent full time biologists and several seasonal biologists. In addition to overseeing salmon research in the Bristol Bay region, Greg is also responsible for research functions related to the Togiak herring fishery.
