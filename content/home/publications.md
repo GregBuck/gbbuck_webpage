@@ -66,6 +66,9 @@ subtitle = ""
  css_class = ""
 +++
 
+[[item]]
+title = "Using acoustic telemetry to expand sonar escapement indices of Chinook salmon to in-river abundance estimates"
+
 {{% alert note %}}
 Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}}
