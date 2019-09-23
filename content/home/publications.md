@@ -66,7 +66,8 @@ subtitle = ""
  css_class = ""
 +++
 
-[[feature]]
+[[pages]]
 title = "Using acoustic telemetry to expand sonar escapement indices of Chinook salmon to in-river abundance estimates"
-"""
 
+
++++
