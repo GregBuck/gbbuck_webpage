@@ -32,7 +32,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://github.com/GregBuck/gbbuck_webpage/tree/master/static/Acoustic_tagging_Nush.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
