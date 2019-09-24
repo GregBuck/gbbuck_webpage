@@ -15,7 +15,7 @@ role: Bristol Bay area research biologist
 # Organizations/Affiliations
 organizations:
 - name: Alaska Department of Fish and Game
-  url: ""
+  url: "http://www.adfg.alaska.gov/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I serve as the lead research biologist for the commercial Fisheries Division for the Bristol Bay management area.
