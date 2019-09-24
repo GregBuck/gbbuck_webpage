@@ -1,9 +1,10 @@
 ---
-title: "An example journal article"
+title: "Using acoustic telemetry to expand sonar escapement indices of Chinook salmon to in-river abundance estimates"
 authors:
+- Suzanne L. Maxwell
 - admin
-- Robert Ford
-date: "2015-09-01T00:00:00Z"
+- April V. Faulkner
+date: "2019-08-19T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,13 +17,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Fisheries Research*(220)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Acoustic telemetry was combined with a project that uses sonar and drift gillnetting methods to estimate Chinook salmon Oncorhynchus tshawytscha escapement in the Nushagak River, Alaska. The sonar project uses dual-frequency identification sonars (DIDSONs) to count passing fish and drift gillnetting to apportion sonar estimates to species. These estimates are indices because the river’s width (∼300m) and uneven bottom topography allow for only a third of the river to be sampled. This range is enough to fully enumerate sockeye salmon O. nerka, the dominate species, but not Chinook salmon, which are known to migrate beyond the samplingrange.Acoustic telemetry was used to determine what proportion of Chinook salmon traveled within the sampling range of the sonar project. We inserted acoustic tags into Chinook salmon ∼13km downriver and deployed an array of acoustic receivers at the sonar site to track tagged fish. From 2011 to 2014, 799 Chinook salmon were tagged. The tagged fish used the entire river width while migrating through the acoustic array exhibiting a wide variety of behaviors that included moving straight through the array, making multiple up and down trips, holding, and crossing over from one side of the river to the other. On average, 57% of tagged fish traveled through regions sampled by the sonar with annual percentages of 65% (2011), 54% (2012), 64% (2013), and of 47% (2014). These proportions were used to expand the sonar-derived indices to in-river abundance estimates.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
 tags:
 - Source Themes
