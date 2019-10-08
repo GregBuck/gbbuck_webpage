@@ -39,7 +39,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://github.com/GregBuck/gbbuck_webpage/tree/master/static/Koski&amp_2009_UAS_Evaluation.pdf
+url_pdf: https://github.com/GregBuck/gbbuck_webpage/tree/master/static/Koski.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
