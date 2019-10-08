@@ -37,7 +37,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'https://github.com/GregBuck/gbbuck_webpage/tree/master/static/AFS_2015 presentation_GB.pptx'
 url_source: ''
 url_video: ''
 
