@@ -60,7 +60,8 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: "2015 AFS"
+references `https://github.com/GregBuck/gbbuck_webpage/tree/master/static/AFS_2015 presentation_GB.pptx'
 ---
 
 {{% alert note %}}
