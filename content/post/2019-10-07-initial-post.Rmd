@@ -7,4 +7,4 @@ categories: []
 tags: []
 ---
 
-This is an initial test post for this website. This website was created by Greg Buck using R running in Rstudio using the blogdown package.
+This is an initial test post for this website. This website was created by Greg Buck using R running in Rstudio using the blogdown package and using the Hugo 'Academic' template.
