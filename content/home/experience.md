@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "Alaska Department of Fish and Game"
   company_url = "https://www.adfg.alaska.gov/"
   location = ""
-  date_start = "2008"
+  date_start = "2008-01-01"
   date_end = ""
   description = """Served as a research biologist in the Bristol Bay management area in the Commercial Fisheries Division of the Alaska Department of Fish and Game.
   Responsibilities include:
@@ -38,8 +38,8 @@ date_format = "Jan 2006"
   company = "LGL"
   company_url = "http://lgl.com/en/"
   location = "Anchorage, Alaska"
-  date_start = "2004"
-  date_end = "2008"
+  date_start = "2004-01-01"
+  date_end = "2008-01-01"
   description = """Worked as a consultant on a wide range of fisheries and marine mammal related projects."""
 
 +++
