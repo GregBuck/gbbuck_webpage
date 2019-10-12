@@ -44,7 +44,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'deploying hydrophone'
   focal_point: ""
   preview_only: false
 
@@ -60,8 +60,8 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: "2015 AFS"
-references `https://github.com/GregBuck/gbbuck_webpage/tree/master/static/AFS_2015 presentation_GB.pptx'
+slides: ""
+
 ---
 
 {{% alert note %}}
