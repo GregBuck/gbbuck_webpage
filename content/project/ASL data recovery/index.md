@@ -1,7 +1,7 @@
 ---
 title: Age, Sex, Length (ASL) data recovery
 summary:
-using `external_link`.
+using: `external_link`.
 tags:
 - Data
 date: "2016-04-27T00:00:00Z"
