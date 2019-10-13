@@ -1,14 +1,15 @@
 ---
 title: Age, Sex, Length (ASL) data recovery
-summary: 
+summary:
+using `external_link`.
 tags:
 - Data
 date: "2016-04-27T00:00:00Z"
 
-page_type = "project"
+#page_type = "project"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "http://rpubs.com/gbbuck/517767"
+external_link: http://rpubs.com/gbbuck/517767
 
 image:
   caption: ADF&G catch samplers
