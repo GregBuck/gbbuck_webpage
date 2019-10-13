@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:gregory.buck@alaska.gov".
+  link: mailto:gregory.buck@alaska.gov
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
