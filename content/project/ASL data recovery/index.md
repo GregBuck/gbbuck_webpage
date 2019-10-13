@@ -1,6 +1,6 @@
 ---
 title: Age, Sex, Length (ASL) data recovery
-summary: The Bristol Bay research staff are approaching the end of a two year effort to merge, clean up and make public the departments extensive collection of salmon age, sex and length data. Currently we have ~ 2 million records electronically available, mostly from 1978-present. We have plans to recover pre-1978 data. using `external_link`.
+summary: A two year effort to merge, clean up and make public the departments extensive collection of salmon age, sex and length data. using `external_link`.
 tags:
 - Demo
 date: "2019-10-12T00:00:00Z"
