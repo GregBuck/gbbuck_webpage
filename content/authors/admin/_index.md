@@ -23,10 +23,13 @@ bio: I serve as the lead research biologist for the commercial Fisheries Divisio
 interests:
 - Salmon forecasting
 - Escapement Goal Analysis
-- R based data science
+- R based data analysis and reporting
 
 education:
   courses:
+  - course: BA, Political Science
+    institution: University of Washington
+    year: 1989
   - course: MS, School of Aquatic and Fisheries Sciences
     institution: University of Washington
     year: 2004
@@ -38,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:gregory.buck@alaska.gov".
+  link: "mailto:gregory.buck@alaska.gov".
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
@@ -58,4 +61,4 @@ user_groups:
 - Visitors
 ---
 
-Greg Buck currently serves as the lead research biologist for the commercial fisheries division for the Bristol Bay management area. Primary functions include forecasting the annual sockeye runs to the Ugashik, Egegik, Naknek-Kvichak, Nushagak and Togiak commercial fishing districts as well as assisting and providing assistance with escapement goal analysis. Greg Supervises two permanent full time biologists and several seasonal biologists. In addition to overseeing salmon research in the Bristol Bay region, Greg is also responsible for research functions related to the Togiak herring fishery.
+Greg Buck currently serves as the lead research biologist for the commercial fisheries division for the Bristol Bay management area. Primary functions include forecasting the annual sockeye runs to the Ugashik, Egegik, Naknek-Kvichak, Nushagak and Togiak commercial fishing districts as well as assisting with escapement goal analysis during each Board of Fish cycle. Greg Supervises two permanent full time biologists and several seasonal biologists. In addition to overseeing salmon research in the Bristol Bay region, Greg is also responsible for research functions related to the Togiak herring fishery.
