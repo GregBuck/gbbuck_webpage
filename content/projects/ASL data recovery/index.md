@@ -5,6 +5,8 @@ tags:
 - Data
 date: "2016-04-27T00:00:00Z"
 
+page_type = "project"
+
 # Optional external URL for project (replaces project detail page).
 external_link: "http://rpubs.com/gbbuck/517767"
 
