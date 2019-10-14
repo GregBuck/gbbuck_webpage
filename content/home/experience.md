@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = ""
   date_start = "2008-03-01"
   date_end = ""
-  description = """Worked as a research biologist in the Bristol Bay management area in the Commercial Fisheries Division of the Alaska Department of Fish and Game.
+  description = """Working as a research biologist in Bristol Bay for the Commercial Fisheries Division of the Alaska Department of Fish and Game.
   Responsibilities include:
   
   * Supervising two full time biologist and large numbers of seasonal employees
@@ -40,6 +40,6 @@ date_format = "Jan 2006"
   location = "Anchorage, Alaska"
   date_start = "2004-03-01"
   date_end = "2008-03-01"
-  description = """Worked as a consultant on a wide range of fisheries and marine mammal related projects."""
+  description = """Worked as a consultant on a wide range of fisheries and marine mammal related projects around Alaska."""
 
 +++
