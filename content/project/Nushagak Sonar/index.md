@@ -31,7 +31,7 @@ url_video: ""
 slides: example
 ---
 
-The Alaska Department of Fish and Game, Division of Commercial Fisheries, monitors annual escapements of salmon returning to  the Nushagak  River system near Dillingham, Alaska. Hydroacoustic techniques, dual  frequency identification sonar  (DIDSON), are used  to develop escapement estimates of  sockeye _Oncorhynchus nerka_, Chinook _O. Tshawytcha_, chum _O. keta_, coho _O. kisutch_, and pink  _O. gorbuscha_  salmon  into  the Nushagak  River.  Sonar passage estimates are used for  inseason management of commercial fisheries in  the Nushagak District. Estimates of species composition, age, sex, and length, are  derived from  samples obtained with drift gillnets.
+The Alaska Department of Fish and Game, Division of Commercial Fisheries, monitors annual escapements of salmon returning to  the Nushagak  River system near Dillingham, Alaska. Dual Frequency Identification Sonar (DIDSON) are used to develop an hourly count of salmon passage. Test fishing with drift gillnets having 5 1/8 inch, 6 inch, and 8 1/8 mesh sizes is used to apportion the daily sonar count into escapement estimates of  sockeye _Oncorhynchus nerka_, Chinook _O. Tshawytcha_, chum _O. keta_, coho _O. kisutch_, and pink  _O. gorbuscha_  salmon  into  the Nushagak  River.  Sonar passage estimates are used for  inseason management of commercial fisheries in  the Nushagak District. Estimates of species composition, age, sex, and length, are  derived from  samples obtained with drift gillnets.
 
 The most recent operational plan
 can be found [here](http://www.adfg.alaska.gov/FedAidPDFs/ROP.CF.2A.2016.01.pdf).
