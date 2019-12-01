@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = ""
   date_start = "2008-03-01"
   date_end = ""
-  description = """Working as a research biologist in Bristol Bay for the Commercial Fisheries Division of the Alaska Department of Fish and Game.
+  description = """Working as the area research biologist in Bristol Bay for the Commercial Fisheries Division of the Alaska Department of Fish and Game.
   Responsibilities include:
   
   * Supervising two full time biologist and large numbers of seasonal employees
@@ -33,6 +33,25 @@ date_format = "Jan 2006"
   * Forecast the annual Bristol Bay salmon return
   """
 
+[[experience]]
+  title = "Fisheries Biologist II"
+  company = "Alaska Department of Fish and Game"
+  company_url = "https://www.adfg.alaska.gov/"
+  location = ""
+  date_start = "2008-03-01"
+  date_end = "2016-04-01"
+  description = """Worked as an assistant area research biologist in Bristol Bay for the Commercial Fisheries Division of the Alaska Department of Fish and Game.
+  Responsibilities include:
+  
+  * Supervise the Nushagak River sonar enumeration project
+  * Supervise catch sampling crews responsible for sampling the commercial salmon harvest
+  * Supervise catch sampling crews responsible for sampling the commercial herring harvest in Togiak Bay
+  * Produce an annual forecast for the Togiak herring spawning biomass
+  * Assist with the Bristol Bay salmon forecast
+  * Conduct data analyisis and write technical reports
+  * Forecast the annual Bristol Bay salmon return
+  """
+  
 [[experience]]
   title = "Fisheries Biologist"
   company = "LGL"
