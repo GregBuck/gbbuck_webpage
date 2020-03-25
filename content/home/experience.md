@@ -24,13 +24,14 @@ date_format = "Jan 2006"
   location = ""
   date_start = "2008-03-01"
   date_end = ""
-  description = """Working as the area research biologist in Bristol Bay for the Commercial Fisheries Division of the Alaska Department of Fish and Game.
+  description = """Currently serving as the area research biologist for Bristol Bay in the Commercial Fisheries Division of the Alaska Department of Fish and Game.
   Responsibilities include:
   
-  * Supervising two full time biologist and large numbers of seasonal employees
+  * Supervise two full time biologist and several seasonal biologists
   * Manage budgets and planning for research projects in Bristol Bay
   * Conduct data analyisis and write technical reports
   * Forecast the annual Bristol Bay salmon return
+  * Make an annual estimate of the herring spawning biomass in Togiak Bay
   """
 
 [[experience]]
@@ -40,16 +41,14 @@ date_format = "Jan 2006"
   location = ""
   date_start = "2008-03-01"
   date_end = "2016-04-01"
-  description = """Worked as an assistant area research biologist in Bristol Bay for the Commercial Fisheries Division of the Alaska Department of Fish and Game.
+  description = """Served as assistant area research biologist in Bristol Bay for the Commercial Fisheries Division of the Alaska Department of Fish and Game.
   Responsibilities include:
   
   * Supervise the Nushagak River sonar enumeration project
-  * Supervise catch sampling crews responsible for sampling the commercial salmon harvest
-  * Supervise catch sampling crews responsible for sampling the commercial herring harvest in Togiak Bay
+  * Supervise catch sampling crews responsible for sampling the commercial salmon harvest in Dillingham and Togiak
   * Produce an annual forecast for the Togiak herring spawning biomass
   * Assist with the Bristol Bay salmon forecast
   * Conduct data analyisis and write technical reports
-  * Forecast the annual Bristol Bay salmon return
   """
   
 [[experience]]
