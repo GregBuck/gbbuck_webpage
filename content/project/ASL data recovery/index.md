@@ -6,15 +6,6 @@ tags:
 date: "2019-10-12T00:00:00Z"
 
 
-url: 
-
-image:
-  caption:
-  focal_point: Smart
-
-
----
-
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
