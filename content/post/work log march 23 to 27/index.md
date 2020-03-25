@@ -1,5 +1,5 @@
 ---
-title: Initial post
+title: Work Log March 23-27
 date: 2019-07-12
 math: true
 diagram: true
@@ -13,5 +13,5 @@ Monday: work on code to build tables for C&E report
 
 Tuesday: investigate possibility of using Rstudio through Citrix. It appears to be possible. Submit request to network services to consider adding Rstudio to citrix.
 
-Wednesday:
+Wednesday: Reactivate this webpage and get it configured to be updated on my work computer. (Previously built on my personal machine on my own time.)
 
