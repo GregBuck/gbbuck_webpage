@@ -1,6 +1,6 @@
 ---
 title: Catch sampling--herring
-summary: Research staff supervise a herring harvest sampling crew tasked with sampling the Togiak herring harvest.
+summary: 
 tags:
 - Field Project
 date: "2016-04-27T00:00:00Z"
