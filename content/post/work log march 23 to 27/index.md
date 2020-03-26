@@ -15,7 +15,7 @@ Tuesday: investigate possibility of using Rstudio through Citrix. It appears to 
 
 Wednesday: Reactivate this webpage and get it configured to be updated on my work computer. (Previously built on my personal machine on my own time.) I plan on using the 'blog' section of this website to make a brief weekly worklog.
 
-Thursday: Working on herring sampling app (see project description).
+Thursday: Working on herring sampling app (see project description). Microsoft Teams training.
 
 Friday: Personal Leave
 
