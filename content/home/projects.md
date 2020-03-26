@@ -32,6 +32,10 @@ subtitle = ""
    [[content.filter_button]]
      name = "Field Project"
      tag = "Field Project"
+     
+   [[content.filter_button]]
+     name = "R"
+     tag = "R"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
