@@ -1,18 +1,14 @@
 ---
-title: Togiak Herring Dashboard
-summary: An R shiny data dashboard to explore inseason data. using `external_link`.
+title: R (Shiny) data Dashboards
+summary: 
 tags:
 - Data
 date: "2019-10-12T00:00:00Z"
 
-# Optional external URL for project (replaces project detail page).
-external_link: https://gregbuck.shinyapps.io/tog_herr_dashboard2
-
-image:
-  caption: ADF&G catch samplers
-  focal_point: Smart
 
 
 ---
 
+I have been working on making data dashboards. Using the Shiny package I can build and post rapid data dashboards designed to help staff understand our data.
 
+[Here](ttps://gregbuck.shinyapps.io/tog_herr_dashboard2/) is an example designed to explore age, sex length (ASL) data collected during the 2019 Togiak herring fishery. I was able to update this dashboard daily.
