@@ -3,6 +3,7 @@ title: R (Shiny) data Dashboards
 summary: 
 tags:
 - Data
+- R
 date: "2019-10-12T00:00:00Z"
 
 
