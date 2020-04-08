@@ -11,9 +11,9 @@ image:
 
 Monday: Nushagak Chinook discussions.
 
-Tuesday: Work with Stacy on catch sampling contingency plans. Work on herring samplingn app.
+Tuesday: Work with Stacy on catch sampling contingency plans. Work on herring sampling app.
 
-Wednesday: 
+Wednesday: Staff meeting. Herring app.
 
 Thursday: 
 
