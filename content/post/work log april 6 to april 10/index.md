@@ -13,9 +13,9 @@ Monday: Nushagak Chinook discussions.
 
 Tuesday: Work with Stacy on catch sampling contingency plans. Work on herring sampling app.
 
-Wednesday: Staff meeting. Herring app.
+Wednesday: Staff meeting. COVID-19 contingency planning.
 
-Thursday: 
+Thursday: Herring app. Google hangout discussing large herring biomass (invitation from Sherri).
 
 Friday: 
 
