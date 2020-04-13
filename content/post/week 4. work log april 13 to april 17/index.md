@@ -11,7 +11,7 @@ image:
 
 Monday: COVID-19 staff discussion. Work on herring sampling app.
 
-Tuesday: 
+Tuesday: AM: Travel trainng. PM: herring app.
 
 Wednesday: 
 
