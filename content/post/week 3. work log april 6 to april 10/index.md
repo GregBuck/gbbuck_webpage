@@ -17,5 +17,5 @@ Wednesday: Staff meeting. COVID-19 contingency planning.
 
 Thursday: Herring app. Google hangout discussing large herring biomass (invitation from Sherri).
 
-Friday: 
+Friday: Personal Leave
 
