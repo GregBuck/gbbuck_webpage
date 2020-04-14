@@ -11,9 +11,9 @@ image:
 
 Monday: COVID-19 staff discussion. Work on herring sampling app.
 
-Tuesday: AM: Travel trainng. PM: herring app.
+Tuesday: AM: Travel trainng. PM: finish v1.0 herring app.
 
-Wednesday: 
+Wednesday: AM: staff meeting. PM: test R flexdashboard connections across VPN.
 
 Thursday: 
 
