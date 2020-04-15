@@ -1,5 +1,5 @@
 ---
-title: Work Log April 6 - April 10
+title: Week 3: work Log April 6 - April 10
 date: 2019-07-12
 math: true
 diagram: true
