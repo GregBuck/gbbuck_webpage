@@ -15,7 +15,7 @@ Tuesday: AM: Travel trainng. PM: finish v1.0 herring app.
 
 Wednesday: AM: staff meeting. PM: Work on C & E tables.
 
-Thursday: 
+Thursday: C & E tables. Microsoft teams training. BBay research staff meeting.
 
 Friday: Personal Leave
 
