@@ -11,11 +11,11 @@ image:
 
 Monday: Work on Nushagak Chinook white paper.
 
-Tuesday: 
+Tuesday: Work on Nushagak Chinook white paper.
 
-Wednesday: 
+Wednesday: Work on Nushagak Chinook white paper.
 
-Thursday: 
+Thursday: Work on Nushagak Chinook white paper.
 
-Friday: Personal Leave
+Friday: AM: finalize white paper. PM: Personal Leave
 
