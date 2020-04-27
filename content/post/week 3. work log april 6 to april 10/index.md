@@ -1,6 +1,6 @@
 ---
 title: Week 3: work Log April 6 - April 10
-date: 2019-07-12
+date: 2020-04-06
 math: true
 diagram: true
 markup: mmark
