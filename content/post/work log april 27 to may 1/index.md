@@ -1,5 +1,5 @@
 ---
-title: work Log April 27 - May 1
+title: work Log April 27 through May 1
 date: 2020-04-27
 math: true
 diagram: true

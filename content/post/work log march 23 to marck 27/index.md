@@ -1,5 +1,5 @@
 ---
-title: work Log March 23-27
+title: work Log March 23 through March 27
 date: 2020-03-23
 math: true
 diagram: true
