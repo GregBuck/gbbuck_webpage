@@ -1,5 +1,5 @@
 ---
-title: Week 4: work Log April 13 - April 17
+title: work Log April 13-17
 date: 2020-04-13
 math: true
 diagram: true

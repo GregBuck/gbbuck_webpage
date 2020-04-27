@@ -1,6 +1,6 @@
 ---
-title: Week 1: work Log March 23-27
-date: 2019-07-12
+title: work Log March 23-27
+date: 2020-03-23
 math: true
 diagram: true
 markup: mmark
