@@ -11,7 +11,7 @@ image:
 
 Monday: update OceanAK esc & harvest queries. Update ugashik & egegik run tracking spreadsheets.
 
-Tuesday: BBay staff meeting. Sonar pre-season meeting.
+Tuesday: Sonar pre-season meeting. Finish egegik run tracking spreadsheet.
 
 Wednesday: Nushagak Chinook Biometric support memo review.
 
