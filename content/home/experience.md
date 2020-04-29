@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "Alaska Department of Fish and Game"
   company_url = "https://www.adfg.alaska.gov/"
   location = ""
-  date_start = "2008-03-01"
+  date_start = "2016-04-01"
   date_end = ""
   description = """Currently serving as the area research biologist for Bristol Bay in the Commercial Fisheries Division of the Alaska Department of Fish and Game.
   Responsibilities include:
