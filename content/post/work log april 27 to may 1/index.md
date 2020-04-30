@@ -15,7 +15,7 @@ Tuesday: Sonar pre-season meeting. Finish egegik run tracking spreadsheet.
 
 Wednesday: Staff meeting. Nushagak Chinook Biometric support memo review. tracking spreadsheets.
 
-Thursday: 
+Thursday: Tracking spreadsheets. 
 
-Friday: 
+Friday: Tracking spreadsheets.
 

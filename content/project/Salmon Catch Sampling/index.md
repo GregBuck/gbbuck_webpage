@@ -29,7 +29,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-The commercial harvest of sockeye salmon is accomplished by deploying sampling crews to various processing plants around Bristol Bay. These crews collect information on the species, sex, length and weight information on the commercial harvest. Scale samples are collected in order to estimate the age composition of the harvest. Additionally approximately 50% of the fish sampled have tissue samples collected. The genetic analysis that is conducted on these samples are used to inform the construction of the Bristol Bay brood tables each fall.
+Sampling the commercial harvest of sockeye salmon is accomplished by deploying sampling crews to various processing plants around Bristol Bay. These crews collect information on the species, sex, length and weight information on the commercial harvest. Scale samples are collected in order to estimate the age composition of the harvest. Additionally approximately 50% of the fish sampled have tissue samples collected. The genetic analysis that is conducted on these samples are used to inform the construction of the Bristol Bay brood tables each fall.
 
 During each season, ADF&G will sample approximately 45,000 salmon, primarily sockeye. Two catch samplers are stationed in Dillingham to cover harvest in the Nushagak District. One catch sampler is stationed in Togiak to cover harvest in that district. Four samplers are stationed in King Salmon to cover the eastside harvest (Egegik, Ugashik and Naknek-Kvichak District). Two scale agers stationed in King Salmon are able to age approximately 70% of the scales collected rapidly enough to provide managers with estimates of age composition to assist inseason management.
 
