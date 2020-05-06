@@ -13,7 +13,7 @@ Monday: Staff Meeting. Run tracking spreadsheets.
 
 Tuesday: Sonar set-up dry runs in warehouse. Run tracking spreadsheets.
 
-Wednesday: Run tracking spreadsheets.
+Wednesday: Staff. Meeting. Run tracking spreadsheets.
 
 Thursday: 
 
