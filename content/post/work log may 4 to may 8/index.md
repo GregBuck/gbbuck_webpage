@@ -13,9 +13,9 @@ Monday: Staff Meeting. Run tracking spreadsheets.
 
 Tuesday: Sonar set-up dry runs in warehouse. Run tracking spreadsheets.
 
-Wednesday: Staff. Meeting. Run tracking spreadsheets.
+Wednesday: Staff Meeting. Run tracking spreadsheets.
 
-Thursday: 
+Thursday: Run tracking spreadsheets. Herring ASL sampling gear check and planning.
 
-Friday: 
+Friday: Run tracking spreadsheets. Review Simpson's thesis.
 
