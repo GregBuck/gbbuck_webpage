@@ -17,5 +17,5 @@ Wednesday: Staff Meeting. Run tracking spreadsheets.
 
 Thursday: Run tracking spreadsheets. Herring ASL sampling gear check and planning.
 
-Friday: Run tracking spreadsheets. Review Simpson's thesis.
+Friday: Run tracking spreadsheets. Review Simpson's thesis & other relevant adult Chinook migration literature.
 
