@@ -13,7 +13,7 @@ Monday: Nushagak Chinook biometric request.
 
 Tuesday: Nushagak Chinook biometric request. 
 
-Wednesday:
+Wednesday: Nushagak Chinook biometric request. Eval brief. Staff meeting.
 
 Thursday: 
 
