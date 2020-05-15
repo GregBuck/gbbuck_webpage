@@ -15,7 +15,7 @@ Tuesday: Nushagak Chinook biometric request.
 
 Wednesday: Nushagak Chinook biometric request. Eval brief. Staff meeting.
 
-Thursday: 
+Thursday: personal leave 
 
-Friday:
+Friday: Nushagak Chinook biometric request. Eval brief. 
 
