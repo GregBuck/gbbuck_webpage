@@ -13,9 +13,9 @@ Monday: C&E tables. refresher trainng for Stacy on herring sampling. Turns out o
 
 Tuesday: Two options for herring sampling: 1) use existing handheld/software without syncing to ACCESS on laptop. 2) develop R-GUI app that will be safer/quicker than direct data entry into a spreadsheet. Work on ordering tab sequence on R-GUI app.
 
-Wednesday:
+Wednesday: Work on herring app: optimize tab order to match work flow, get output in correct format. SPOT training.
 
-Thursday:  
+Thursday:  Work on herring app: get R loaded on a Trimble (quite difficult to load packages, unable to use CRAN, had to load MANY packages via USB). Unfortunately opening app on trimble causes layout to change in a fashion that hides some input fields. Need to fix 'something' in layout manager. Things left too do:  1) fix layout for Trimble, 2) integrate wireless calipers. I'll need to do #1 so Stacy can beta test this app this year but will probably have to table #2 as it will probably be quite time consuming.
 
-Friday:  
+Friday: Work on herring app.  
 
