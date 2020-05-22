@@ -17,5 +17,5 @@ Wednesday: Work on herring app: optimize tab order to match work flow, get outpu
 
 Thursday:  Work on herring app: get R loaded on a Trimble (quite difficult to load packages, unable to use CRAN, had to load MANY packages via USB). Unfortunately opening app on trimble causes layout to change in a fashion that hides some input fields. Need to fix 'something' in layout manager. Things left too do:  1) fix layout for Trimble, 2) integrate wireless calipers. I'll need to do #1 so Stacy can beta test this app this year but will probably have to table #2 as it will probably be quite time consuming.
 
-Friday: Work on herring app.  
+Friday: Work on herring app. Cyber security training.
 
