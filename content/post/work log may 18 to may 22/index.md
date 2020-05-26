@@ -1,6 +1,6 @@
 ---
-title: work Log May 18 through May 22
-date: 2020-05-18
+title: work Log May 26 through May 29
+date: 2020-05-26
 math: true
 diagram: true
 markup: mmark
@@ -9,13 +9,13 @@ image:
   
 ---
 
-Monday: C&E tables. refresher trainng for Stacy on herring sampling. Turns out our existing protocol just died with the old laptop we were using to sync handheld too.  Not possible to configure newer computer to work with our obsolete system. Have to come up with and implement a plan B this year. 
+**Monday:** Memorial Day 
 
-Tuesday: Two options for herring sampling: 1) use existing handheld/software without syncing to ACCESS on laptop. 2) develop R-GUI app that will be safer/quicker than direct data entry into a spreadsheet. Work on ordering tab sequence on R-GUI app.
+**Tuesday:** Wrap up herring app: get equipment back to Stacy and train her up, write 'readme' doc. Put everything on OneDrive ~/TogHerringASL_sampling_app folder. Start experimenting w/ making a 'research' website that could act as a one stop shop for things like inseason projections, data dashboards etc.
 
-Wednesday: Work on herring app: optimize tab order to match work flow, get output in correct format. SPOT training.
+**Wednesday:** 
 
-Thursday:  Work on herring app: get R loaded on a Trimble (quite difficult to load packages, unable to use CRAN, had to load MANY packages via USB). Unfortunately opening app on trimble causes layout to change in a fashion that hides some input fields. Need to fix 'something' in layout manager. Things left too do:  1) fix layout for Trimble, 2) integrate wireless calipers. I'll need to do #1 so Stacy can beta test this app this year but will probably have to table #2 as it will probably be quite time consuming.
+**Thursday:**  
 
-Friday: Work on herring app. Cyber security training.
+**Friday:** 
 
