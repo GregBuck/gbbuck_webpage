@@ -13,7 +13,7 @@ image:
 
 **Tuesday:** Wrap up herring app: get equipment back to Stacy and train her up, write 'readme' doc. Put everything on OneDrive ~/TogHerringASL_sampling_app folder. Start experimenting w/ making a 'research' website that could act as a one stop shop for things like inseason projections, data dashboards etc.
 
-**Wednesday:** 
+**Wednesday:** Cut down some caliper arms on 2 new manitech calipers for Stacy's catch samplers. Continue working on 'research' website.
 
 **Thursday:**  
 
