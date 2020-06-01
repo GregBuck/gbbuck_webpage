@@ -15,7 +15,7 @@ image:
 
 **Wednesday:** Cut down some caliper arms on 2 new manitech calipers for Stacy's catch samplers. Continue working on 'research' website.
 
-**Thursday:**  
+**Thursday:**  Continue working on 'research' website.
 
-**Friday:** 
+**Friday:** Continue working on 'research' website. [Publish here](https://app.netlify.com/sites/cranky-fermi-1ab637/overview)
 
