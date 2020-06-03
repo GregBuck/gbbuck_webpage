@@ -11,7 +11,7 @@ image:
 
 Monday: Adding content to bbresearch website. 
 
-Tuesday: 
+Tuesday: Adding content to bbresearch website. Site is live at https://bbresearch.rbind.io
 
 Wednesday: 
 
