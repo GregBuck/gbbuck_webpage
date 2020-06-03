@@ -1,6 +1,6 @@
 ---
-title: work Log May 18 through May 22
-date: 2020-05-18
+title: work Log June 1 through June 5
+date: 2020-06-1
 math: true
 diagram: true
 markup: mmark
