@@ -13,9 +13,10 @@ Monday: Adding content to bbresearch website.
 
 Tuesday: Adding content to bbresearch website. Site is live at https://bbresearch.rbind.io
 
-Wednesday: 
+Wednesday: Try getting 'task schedule' to update dashboards. (So far no luck, seems to be an issue
+with how Cisco VPN is set up on our laptops.) 
 
-Thursday:  
+Thursday: Start an age composition dashboard.
 
 Friday: 
 
