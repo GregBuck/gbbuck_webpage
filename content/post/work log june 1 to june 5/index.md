@@ -18,5 +18,5 @@ with how Cisco VPN is set up on our laptops.)
 
 Thursday: Start an age composition dashboard.
 
-Friday: 
+Friday: Age by day & district dashboard.
 
