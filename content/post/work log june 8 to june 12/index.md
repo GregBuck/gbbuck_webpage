@@ -11,7 +11,7 @@ image:
 
 Monday: Weight at age dashboard.
 
-Tuesday: 
+Tuesday: ASL dashboards. Staff meeting.
 
 Wednesday:
 
