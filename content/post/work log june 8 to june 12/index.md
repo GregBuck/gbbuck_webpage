@@ -11,11 +11,11 @@ image:
 
 Monday: Weight at age dashboard.
 
-Tuesday: ASL dashboards. Staff meeting.
+Tuesday: age dashboard. Staff meeting.
 
-Wednesday:
+Wednesday: weight and age dashboard. Staff meeting
 
-Thursday: 
+Thursday: Inseason projection code.
 
-Friday: 
+Friday: Inseason projection code. Escapement dashboard. 
 
