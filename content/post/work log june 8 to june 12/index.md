@@ -17,5 +17,5 @@ Wednesday: weight and age dashboard. Staff meeting
 
 Thursday: Inseason projection code.
 
-Friday: Inseason projection code. Escapement dashboard. 
+Friday: Get run tracking spreadsheets syncing on Onedrive. Escapement dashboard. 
 
