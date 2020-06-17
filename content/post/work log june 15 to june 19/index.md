@@ -13,7 +13,8 @@ Monday: Dashboard improvements. Ship refrigerator & ladder to Dillingham.
 
 Tuesday: Escapement Dashboard. Staff meeting. Demo dashboards for Tim S.
 
-Wednesday: Staff meeting
+Wednesday: Staff meeting. Demo dashboards to east-side staff. added upper and lower
+SEG reference lines to escapement dashboard.
 
 Thursday: 
 
