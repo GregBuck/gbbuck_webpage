@@ -17,5 +17,5 @@ Wednesday: Leave
 
 Thursday:  Beta test measuring board prototype and expand on user's manual.
 
-Friday: Beta test measuring board prototype and expand on user's manual.
+Friday: Beta test measuring board prototype and expand on user's manual. Plot out tentative 2020 fall workflow.
 
