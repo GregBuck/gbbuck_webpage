@@ -15,4 +15,4 @@ Tuesday: Beta test prototype measuring board. Discussed with Roy. Appears to wor
 
 Wednesday: QA/QC 2020 salmon ASL data to ID scales that Stacy ought to review (outliers)
 
-Thursday/Friday: R code to query OceanAK and genreate C & E report tables  
+Thursday/Friday: R code to query OceanAK and generate C & E report tables  
