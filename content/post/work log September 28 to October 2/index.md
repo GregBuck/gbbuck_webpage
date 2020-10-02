@@ -17,4 +17,4 @@ Wednesday: re-configure Rstudio for all projects (websites, dashboards under dev
 
 Thursday: Bristol Bay forecast R package development
 
-Friday: Bristol Bay forecast R package development
+Friday: Bristol Bay forecast R package development [Notes](http://bbresearch.rbind.io/post/create-r-package/)
